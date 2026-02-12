@@ -31,10 +31,10 @@
 <h3 align="center">Current Focus</h3>
 
 <p align="center">
-  • Custom exploit tools & loaders<br>
-  • Private script hub development<br>
+  • Exploit tools & loaders<br>
+  • Roblox script hub development<br>
   • Low-detection techniques<br>
-  • Occasional UI experiments
+  • Anticheat developer
 </p>
 
 <br>
