@@ -24,13 +24,12 @@
 
 <br>
 
-<h3 align="center">Current Shadows</h3>
+<h3 align="center">My project</h3>
 
 <p align="center">
-  • Loaders & hubs<br>
+  • Loaders & script hubs<br>
   • Exploit tools (Contact me for the tools)<br>
-  • Low detection scripts<br>
-  • UI design when the mood bored
+  • Discord bot for Exploit
 </p>
 
 <br><br>
