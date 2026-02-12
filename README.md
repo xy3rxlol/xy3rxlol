@@ -1,7 +1,7 @@
 <!-- xy3rxlol's GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=xy3rxlol;lowkey+workshop;scripts+%26+chaos;Bangkok-based" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=xy3rx;lowkey+workshop;scripts+%26+chaos" alt="Typing SVG" />
 </div>
 
 <br>
