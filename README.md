@@ -1,7 +1,7 @@
 <!-- xy3rxlol's GitHub Profile README – Lowkey Chaos Edition -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=00FF41&center=true&vCenter=true&width=500&lines=xy3rxlol;lowkey+workshop;scripts+%26+chaos;Bangkok+shadows;quality+%3E+quantity" alt="xy3rxlol Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=00FF41&center=true&vCenter=true&width=500&lines=xy3rx;lowkey+workshop;scripts+%26+chaos;quality+%3E+quantity" alt="xy3rxlol Typing" />
 </div>
 
 <br>
