@@ -53,7 +53,7 @@
 <br>
 
 <div align="center">
-  <sub>「 stay lowkey. 」</sub>
+  <sub>「 quality > quantity. 」</sub>
 </div>
 
 <!-- 
