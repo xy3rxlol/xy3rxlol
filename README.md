@@ -6,12 +6,10 @@
 
 <br>
 
-<h3 align="center">Ghost in the Machine</h3>
+<h3 align="center">About me</h3>
 
 <p align="center">
-  Silent builder. Lua whisperer. Roblox shadow tools & personal entropy.<br>
-  Private loaders, quiet experiments, zero noise.<br>
-  Low profile. Functional. Untraceable.
+  Yo I'm xy3rx
 </p>
 
 <br>
