@@ -32,6 +32,8 @@
   • Discord bot for Exploit
 </p>
 
+```test```
+
 <br><br>
 
 <div align="center">
@@ -39,11 +41,10 @@
        .     .       *      .      .   *     .    .      *    .
      .    *     .     .   *    .      .     *   .     .    *
   .      .   *      .     .    *     .   *     .     *     .
-*   .     .     *    .      .     *    .     .   *     .     *
+*   .       <b>quality &gt; quantity.</b>     .   *       
   .     *     .    .   *     .      .     *    .     .   *
      .      .     *     .    *     .   *     .     *     .
        .   *     .      .     .   *     .      .     *    .
-  <b>quality &gt; quantity.</b>
   </pre>
 </div>
 
