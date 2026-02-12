@@ -18,9 +18,9 @@
 
 <div align="center">
   <!-- Neon hacker badges -->
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=00FF41" alt="Lua" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=FFFFFF" alt="Lua" />
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=00FF41" alt="Roblox" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
   <img src="https://img.shields.io/badge/Chaos-FF0044?style=for-the-badge&logo=tor&logoColor=00FF41" alt="Chaos" />
 </div>
 
@@ -29,17 +29,13 @@
 <h3 align="center">Current Shadows</h3>
 
 <p align="center">
-  • Custom loaders & silent hubs<br>
-  • Exploit tooling (off-grid only)<br>
-  • Detection evasion tinkering<br>
-  • UI glitches when the mood strikes
+  • Loaders & hubs<br>
+  • Exploit tools (Contact me for the tools)<br>
+  • Low detection scripts<br>
+  • UI design when the mood bored
 </p>
 
 <br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xy3rxlol&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=8b949e" alt="xy3rxlol Stats" width="420" />
-</div>
 
 <br>
 
