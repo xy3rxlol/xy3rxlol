@@ -42,7 +42,7 @@
 <div align="center">
 
   <!-- GitHub stats - dark theme, compact -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xy3rx&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xy3rxlol&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="420" />
 
   <br><br>
 
