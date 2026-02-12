@@ -1,7 +1,7 @@
 <!-- xy3rxlol's GitHub Profile README – Lowkey Chaos Edition -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=00FF41&center=true&vCenter=true&width=500&lines=xy3rx;lowkey+workshop;scripts+%26+chaos;quality+%3E+quantity" alt="xy3rxlol Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=00FF41&center=true&vCenter=true&width=500&lines=xy3rx;lowkey+workshop;scripts+%26+chaos;quality+%3E+quantity" alt="xy3rx Typing" />
 </div>
 
 <br>
@@ -24,7 +24,7 @@
 
 <br>
 
-<h3 align="center">My project</h3>
+<h3 align="center">My projects</h3>
 
 <p align="center">
   • Loaders & script hubs<br>
@@ -33,8 +33,6 @@
 </p>
 
 <br><br>
-
-<br>
 
 <div align="center">
   <pre style="color:#00FF41; font-family: 'Courier New', monospace; font-size:12px; opacity:0.7;">
@@ -48,6 +46,12 @@
   <b>quality &gt; quantity.</b>
   </pre>
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://discord.gg/xy3rx">discord.gg/xy3rx</a>
+</p>
 
 <!-- 
   Hidden glitch note: 2026 shadows. Edit freely. Stay low.
