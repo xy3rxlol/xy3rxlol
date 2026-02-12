@@ -1,7 +1,7 @@
 <!-- xy3rxlol's GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=xy3rx;lowkey+workshop;scripts+%26+chaos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=xy3rx;lowkey+workshop+idk;scripts+%26+chaos" alt="Typing SVG" />
 </div>
 
 <br>
@@ -37,19 +37,6 @@
 </p>
 
 <br>
-
-<div align="center">
-
-  <!-- Compact dark stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xy3rxlol&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="420" />
-
-  <br><br>
-
-  <!-- Top languages – comment out if you want zero footprint -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xy3rxlol&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" width="420" /> -->
-
-</div>
-
 <br>
 
 <div align="center">
