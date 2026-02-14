@@ -40,20 +40,8 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xy3rxlol/xy3rxlol/refs/heads/main/loader",true))()
 ```
 
-<br><br>
-
-<div align="center">
-  <pre style="color:#00FF41; font-family: 'Courier New', monospace; font-size:12px; opacity:0.7;">
-       .     .       *      .      .   *     .    .      *    .
-     .    *     .     .   *    .      .     *   .     .    *
-  .      .   *      .     .    *     .   *     .     *     .
-*   .       <b>quality &gt; quantity.</b>     .   *       
-  .     *     .    .   *     .      .     *    .     .   *
-     .      .     *     .    *     .   *     .     *     .
-       .   *     .      .     .   *     .      .     *    .
-  </pre>
-</div>
-
+<br>
+- Glue piece
 <br>
 
 <p align="center">
