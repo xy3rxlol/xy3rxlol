@@ -1,7 +1,7 @@
 <!-- xy3rxlol's GitHub Profile README – Lowkey Chaos Edition -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=00FF41&center=true&vCenter=true&width=500&lines=xy3rx;lowkey+workshop;scripts+%26+chaos;quality+%3E+quantity" alt="xy3rx Typing" />
+  <img src="https://raw.githubusercontent.com/xy3rxlol/xy3rxlol/refs/heads/main/visualsafsde%20(1)%20(1).png" />
 </div>
 
 <br>
