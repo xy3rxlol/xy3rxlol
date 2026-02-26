@@ -41,7 +41,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xy3rxlol/xy3rxlol/ref
 ```
 
 <br>
-- Glue piece
+- Glue piece (1.0.1)
+- The strongest battlegrounds (1.0.0)
 <br>
 
 <p align="center">
