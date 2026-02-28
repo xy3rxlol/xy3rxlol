@@ -41,7 +41,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xy3rxlol/xy3rxlol/ref
 ```
 
 <p align="center">
-  <a href="[https://discord.gg/xy3rx](https://discord.gg/s7Tv6ENGg8)">discord.gg/xy3rx</a>
+  <a href="[https://discord.gg/xy3rx](https://discord.gg/s7Tv6ENGg8)"></a>
 </p>
 
 <!-- 
