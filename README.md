@@ -40,11 +40,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xy3rxlol/xy3rxlol/refs/heads/main/loader",true))()
 ```
 
-<br>
-- Glue piece (1.0.1)
-- The strongest battlegrounds (1.0.0)
-<br>
-
 <p align="center">
   <a href="[https://discord.gg/xy3rx](https://discord.gg/s7Tv6ENGg8)">discord.gg/xy3rx</a>
 </p>
